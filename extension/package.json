@@ -61,7 +61,7 @@
     "@dust-tt/client": "1.1.4",
     "@dust-tt/sparkle": "^0.2.566",
     "@frontapp/plugin-sdk": "^1.8.1",
-    "@modelcontextprotocol/sdk": "^1.9.0",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "@tailwindcss/forms": "^0.5.9",
     "@tiptap/extension-character-count": "^2.9.1",
     "@tiptap/extension-mention": "^2.9.1",
